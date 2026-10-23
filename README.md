@@ -34,8 +34,8 @@ bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release
 
 Установка проекта:
 ```bash
-git clone https://github.com/notxaked/CustomV2Ray.git
-cd CustomV2Ray
+git clone https://github.com/youhacked0/yetanotherv2rayforfedora.git
+cd yetanotherv2rayforfedora
 sudo ./scripts/install.sh
 ```
 

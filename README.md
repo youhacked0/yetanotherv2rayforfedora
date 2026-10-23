@@ -1,7 +1,14 @@
 # yetanotherv2rayforfedora
 
 навайбкодил себе штуку короче чтобы было удобно. если надо пользуйтесь ⚠️ ai slop
+
 Легковесный клиент и демон для **Fedora** (GNOME Shell), который интегрирует **Xray-core** напрямую в системное меню NetworkManager / Quick Settings.
+
+<p align="center">
+  <img src="assets/screenshot1.jpg" alt="GNOME Quick Settings" width="320" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshot2.jpg" alt="Список серверов VPN" width="320" />
+</p>
 
 ---
 

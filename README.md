@@ -1,5 +1,6 @@
 # yetanotherv2rayforfedora
 
+навайбкодил себе штуку короче чтобы было удобно. если надо пользуйтесь ⚠️ ai slop
 Легковесный клиент и демон для **Fedora** (GNOME Shell), который интегрирует **Xray-core** напрямую в системное меню NetworkManager / Quick Settings.
 
 ---

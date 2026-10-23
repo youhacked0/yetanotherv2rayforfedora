@@ -1,0 +1,32 @@
+# Binaries and build artifacts
+/customv2ray
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go workspace and caches
+vendor/
+go.work
+go.work.sum
+
+# IDE & Editor artifacts
+.idea/
+.vscode/
+.cursor/
+.agents/
+*.swp
+*~
+.#*
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+/tmp/
+
